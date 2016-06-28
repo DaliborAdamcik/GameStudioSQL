@@ -1,6 +1,7 @@
 # GameStudioSQL
-Jednotlive selekty podla uloh su ulozene vo View (U01 je view so selektom pre ulohu 1)
+Jednotlive selekty podla uloh su ulozene vo View (U01 je view so selektom pre ulohu 1)<br/>
 <strong>Zoznam uloh:</strong>
+<pre>
 Navrhnite štruktúru databázy pre Game Studio.
 Tabuľky – definujte primárne a cudzie kľúče, obmedzenia:
 -          Game – hra, názov, autor, dátum pridania hry do štúdia, url hry
@@ -27,3 +28,4 @@ Napíšte dopyty (vytvorte pre nich pohlady):
 13.   Meno hráča, ktorý hral naposledy hru
 14.   Počet komentárov pre najobľúbenejšiu hru
 15.   Mená hráčov s počtom komentárov, ktoré pridali k hrám
+</pre>
